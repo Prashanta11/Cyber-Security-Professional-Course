@@ -129,9 +129,9 @@ This certificate is designed to lay the groundwork for a successful entry-level 
 
 ## 📱 Connect With Me
 
-- **Coursera Profile**: [Link to be added]  
-- **LinkedIn**: [Link to be added]  
-- **GitHub**: [Link to be added]  
+- **Coursera Profile**: [https://www.coursera.org/learner/prashantadeuja]  
+- **LinkedIn**: [https://www.linkedin.com/in/prashantadeuja]  
+- **GitHub**: [https://github.com/Prashanta11]  
 
 ---
 
